@@ -1,0 +1,4 @@
+pip3.6 install sentencepiece
+pip3.6 install sacrebleu
+pip3.6 install transformers==4.12.5
+pip3.6 uninstall transformers

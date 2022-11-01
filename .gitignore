@@ -1,0 +1,6 @@
+.idea
+/minidata_zh2ms/mini_train.txt
+/minidata_tokenizer/
+/minidata_zh2ms/mini_dev.txt
+/model.py
+/输出参数量.py
